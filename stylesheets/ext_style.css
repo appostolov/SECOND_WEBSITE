@@ -153,6 +153,11 @@ box-shadow: 10px 10px 10px #888888;
 border:10px solid rgb(250,230,230);
 }
 
+#key_board input
+{
+margin:0px;
+}
+
 #about_where
 {
 background-color:rgb(120,240,255);
