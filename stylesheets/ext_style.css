@@ -153,11 +153,6 @@ box-shadow: 10px 10px 10px #888888;
 border:10px solid rgb(250,230,230);
 }
 
-#key_board input
-{
-margin:0px;
-}
-
 #about_where
 {
 background-color:rgb(120,240,255);
@@ -234,6 +229,21 @@ text-align: center;
 opacity:0.7;
 }
 
+#money:hover
+{
+background-color:rgb(100,150,150);
+position:absolute;
+z-index:2;
+top:27px;
+left:197px;
+width:236px;
+height:76px;
+margin:0px;
+padding-top:35px;
+text-align: center;
+opacity:1;
+}
+
 #area
 {
 background-color:rgb(100,245,100);
@@ -248,6 +258,22 @@ margin:0px;
 padding-top:20px;
 text-align: center;
 opacity:0.7;
+}
+
+#area:hover
+{
+background-color:rgb(100,245,100);
+position:absolute;
+float:right;
+z-index:2;
+top:2px;
+right:2px;
+width:206px;
+height:76px;
+margin:0px;
+padding-top:20px;
+text-align: center;
+opacity:1;
 }
 
 button
