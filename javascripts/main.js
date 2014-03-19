@@ -1,1 +1,5 @@
-console.log('This would be the main JS file.');
+$(document).ready(function(){
+	
+	$("#dynamic").cycle({timeout: 10000});
+
+});
