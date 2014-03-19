@@ -83,7 +83,7 @@ box-shadow: 0px 0px 5px #888888;
 #wellcome
 {
 position:absolute;
-top:370px;
+top:372px;
 left:240px;
 margin:0px;
 z-index:3;
@@ -95,7 +95,7 @@ text-shadow: 0px 2px 2px #ffffff;
 #well_text
 {
 position:absolute;
-top:380px;
+top:385px;
 left:240px;
 margin:0px;
 z-index:2;
