@@ -8,11 +8,11 @@ overflow:inherit;
 #dynamic
 {
 position:absolute;
-top:0%;
-left:0%;
+top:0px;
+left:0px;
 width:100%;
-height:50%;
-margin:0%;
+height:390px;
+margin:0px;
 padding:0px;
 z-index:-1;
 }
@@ -20,11 +20,11 @@ z-index:-1;
 #up_menu
 {
 position:absolute;
-top:0%;
-left:0%;
+top:0px;
+left:0px;
 width:100%;
-height:4%;
-margin:0%;
+height:31px;
+margin:0px;
 z-index:1;
 }
 
@@ -33,9 +33,9 @@ z-index:1;
 position:absolute;
 top:5px;
 left:100px;
-width:10%;
-height:8%;
-margin:0%;
+width:160px;
+height:62px;
+margin:0px;
 z-index:2;
 border:5px solid rgb(100,255,255);
 border-radius:15px;
@@ -46,9 +46,9 @@ border-radius:15px;
 position:absolute;
 top:5px;
 left:100px;
-width:10%;
-height:8%;
-margin:0%;
+width:160px;
+height:62px;
+margin:0px;
 z-index:2;
 border:5px solid rgb(255,100,100);
 border-radius:15px;
@@ -59,9 +59,9 @@ border-radius:15px;
 position:absolute;
 top:5px;
 left:100px;
-width:12%;
-height:10%;
-margin:0%;
+width:192px;
+height:78px;
+margin:0px;
 z-index:2;
 border:5px solid rgb(255,100,100);
 border-radius:15px;
@@ -71,11 +71,11 @@ border-radius:15px;
 {
 background-color:rgb(255,255,255);
 position:absolute;
-top:49%;
-left:0%;
+top:390px;
+left:0px;
 width:100%;
-height:5%;
-margin:0%;
+height:39px;
+margin:0px;
 z-index:1;
 box-shadow: 0px 0px 5px #888888;
 }
@@ -83,9 +83,9 @@ box-shadow: 0px 0px 5px #888888;
 #wellcome
 {
 position:absolute;
-top:46%;
-left:15%;
-margin:0%;
+top:360px;
+left:240px;
+margin:0px;
 z-index:3;
 font:35px arial,sans-serif;
 color:rgb(100,200,255);
@@ -95,9 +95,9 @@ text-shadow: 0px 2px 2px #ffffff;
 #well_text
 {
 position:absolute;
-top:49%;
-left:15%;
-margin:0%;
+top:400px;
+left:240px;
+margin:0px;
 z-index:2;
 font:35px arial,sans-serif;
 color:rgb(100,200,255);
@@ -124,16 +124,16 @@ margin:0%;
 {
 position:absolute;
 z-index:2;
-top:55%;
-left:44%;
+top:420px;
+left:900px;
 }
 
 #ifr_car
 {
 position:absolute;
 z-index:2;
-top:55%;
-left:44%;
+top:420px;
+left:420px;
 width:890px;
 height:218px;
 scrolling:"no";
@@ -143,7 +143,7 @@ scrolling:"no";
 {
 background-color:rgb(0,30,0);
 position:absolute;
-top:57%;
+top:450px;
 left:15px;
 width:630px;
 height:160px;
@@ -188,7 +188,7 @@ background-color:rgb(100,150,150);
 position:absolute;
 z-index:2;
 top:45px;
-left:33.4%;
+left:260px;
 width:230px;
 height:70px;
 margin:0px;
@@ -216,7 +216,7 @@ button
 position:absolute;
 z-index:3;
 right:0px;
-bottom:0%;
+bottom:0px;
 }
 
 #input_kakvo
@@ -235,10 +235,10 @@ top:15px;
 {
 background-color:rgb(215,235,215);
 position:absolute;
-top:85%;
-bottom:20%;
-left:5%;
-width:90%;
+top:700px;
+bottom:156px;
+left:80px;
+width:1400px;
 height:1000px;
 margin:0px;
 padding:0px;
@@ -249,7 +249,7 @@ break-all;
 #result_holder img
 {
 position:relative;
-margin:0%;
+margin:0px;
 repeat:repeat+1;
 border:5px solid rgb(250,230,230);
 box-shadow: 10px 10px 10px #888888;
@@ -266,7 +266,7 @@ float:left;
 {
 position:absolute;
 top:0.5%;
-left:25%;
+left:400px;
 width:50px;
 height:50px;
 margin:0px;
@@ -278,7 +278,7 @@ padding:0px;
 opacity:0.5;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:50px;
 height:50px;
 margin:0px;
@@ -291,7 +291,7 @@ z-index:2;
 opacity:1;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:50px;
 height:50px;
 margin:0px;
@@ -304,7 +304,7 @@ z-index:2;
 opacity:1;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:60px;
 height:60px;
 margin:0px;
@@ -316,8 +316,8 @@ z-index:2;
 #mail
 {
 position:absolute;
-top:0.5%;
-left:30%;
+top:39px;
+left:480px;
 width:50px;
 height:50px;
 margin:0px;
@@ -329,7 +329,7 @@ padding:0px;
 opacity:0.5;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:50px;
 height:50px;
 margin:0px;
@@ -342,7 +342,7 @@ z-index:2;
 opacity:1;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:50px;
 height:50px;
 margin:0px;
@@ -355,7 +355,7 @@ z-index:2;
 opacity:1;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:60px;
 height:60px;
 margin:0px;
@@ -366,8 +366,8 @@ z-index:2;
 #phone
 {
 position:absolute;
-top:0.5%;
-left:35%;
+top:4px;
+left:560px;
 width:50px;
 height:50px;
 margin:0px;
@@ -379,7 +379,7 @@ padding:0px;
 opacity:0.5;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:50px;
 height:50px;
 margin:0px;
@@ -392,7 +392,7 @@ z-index:2;
 opacity:1;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:50px;
 height:50px;
 margin:0px;
@@ -405,7 +405,7 @@ z-index:2;
 opacity:1;
 position:relative;
 top:0px;
-left:0%;
+left:0px;
 width:60px;
 height:60px;
 margin:0px;
