@@ -125,7 +125,7 @@ margin:0%;
 position:absolute;
 z-index:2;
 top:420px;
-left:900px;
+left:700px;
 }
 
 #ifr_car
@@ -188,7 +188,7 @@ background-color:rgb(100,150,150);
 position:absolute;
 z-index:2;
 top:45px;
-left:260px;
+left:250px;
 width:230px;
 height:70px;
 margin:0px;
@@ -265,7 +265,7 @@ float:left;
 #skype
 {
 position:absolute;
-top:0.5%;
+top:4px;
 left:400px;
 width:50px;
 height:50px;
@@ -316,7 +316,7 @@ z-index:2;
 #mail
 {
 position:absolute;
-top:39px;
+top:4px;
 left:480px;
 width:50px;
 height:50px;
