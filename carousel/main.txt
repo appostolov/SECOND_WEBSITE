@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Carousel</title>
+
+<script src="http://code.jquery.com/jquery-1.5.min.js"></script>
+<script src="js/infinitecarousel/jquery.infinitecarousel2.js"></script>
+
+<script>
+
+$(function(){
+
+	$('#car').infiniteCarousel({
+});
+
+});
+
+</script>
+
+<style>
+
+#body
+{
+padding:0;
+margin:0;
+}
+
+#car{
+width:900px;
+height:200px;
+padding:0;
+margin:0;
+}
+
+#car ul{
+list-style:none;
+width:900px;
+height:200px;
+padding:0;
+margin:0;
+}
+
+#car li{
+float:left;
+width:270px;
+height:200px;
+}
+
+#car img{
+width:270px;
+height:200px;
+border-radius:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="main">
+<div id="car">
+<ul>
+<li><img src="1.jpg" />
+<p>Kakvo staa</p>
+</li>
+<li><img src="2.jpg" />
+<p>Kakvo staa</p>
+</li>
+<li><img src="3.jpg" />
+<p>Kakvo staa</p>
+</li>
+<li><img src="4.jpg" />
+<p>Kakvo staa</p>
+</li>
+<li><img src="5.jpg" />
+<p>Kakvo staa</p>
+</li>
+</ul>
+</div>
+</div>
+
+</body>
+
+</html>
