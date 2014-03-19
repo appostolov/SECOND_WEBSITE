@@ -157,7 +157,7 @@ border:10px solid rgb(250,230,230);
 {
 background-color:rgb(120,240,255);
 position:relative;
-z-index:2;
+z-index:1;
 top:15px;
 left:15px;
 width:180px;
