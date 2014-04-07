@@ -327,7 +327,7 @@ padding:50px;
 float:left;
 }
 
-result_holder iframe
+#result_holder iframe
 {
 position:absolute;
 width:200px;
