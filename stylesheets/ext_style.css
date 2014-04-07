@@ -327,6 +327,13 @@ padding:50px;
 float:left;
 }
 
+result_holder iframe
+{
+position:absolute;
+width:200px;
+height:200px;
+}
+
 #skype
 {
 position:absolute;
